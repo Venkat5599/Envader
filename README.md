@@ -1,4 +1,2 @@
 # Cyber stuff
-
-1.  First is the DLL Injection project 
-
+projects down by the help of the TCM course
