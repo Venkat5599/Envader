@@ -1,2 +1,2 @@
 # Cyber stuff
-projects down by the help of the TCM course
+projects done  by the help of the TCM course
